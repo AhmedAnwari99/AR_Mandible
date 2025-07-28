@@ -1,0 +1,15 @@
+# dataset/data.yaml
+path: C:\Users\Anwari Ahmed\Desktop\Internship\AR_Mandible\images\export_158240_project-158240-at-2025-06-12-08-05-68d08c20  # base path to dataset
+train: images/train
+val: images/val
+
+names:
+
+  0: R Canine
+  1: R LC
+  2: L CL
+  3: Extra
+  4: Molar
+
+
+
