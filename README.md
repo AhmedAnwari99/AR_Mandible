@@ -18,7 +18,7 @@ Homography was calculated and used to transform the CT Scan.
 Transformed CT projected over video. 
 CT contains an osteotomy path. Projected Osteotomy is used to draw a path on the static camera frame.
 Osteotomy drawn on a static frame is used as a guide to draw the osteotomy path on the actual object.
-The surgeon does validation of results and calcualtes the Target Registration Error.
+The surgeon does validation of results and calculates the Target Registration Error.
 Tracking via Optical Flow.
 
 Semi-Automation via YOLOv8s.
