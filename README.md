@@ -22,7 +22,7 @@ The surgeon does validation of results and calculates the Target Registration Er
 Tracking via Optical Flow.
 
 Semi-Automation via YOLOv8s.
-Annotation via Label studio -> Ultralytics YOLOv8s model trained -> Detected landmarks used as points from the Camera frame. CT Landmarks manually selected.
+Annotation via Label studio -> 66 images in total (52/14 train/val split) -> Ultralytics YOLOv8s model trained for 100 epochs-> Detected landmarks used as points from the Camera frame. CT Landmarks manually selected.
 
 *Manual Registration Pipeline*
 <p align = 'center'> <img src="Pictures/manual.PNG" alt="Manual_registration" <p/>
