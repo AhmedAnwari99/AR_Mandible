@@ -1,3 +1,7 @@
+**Augmented Reality in Mandibular Tumor Surgery**
+
+This project is my MSc in Artificial Intelligence in Health Internship Thesis. It was carried out at the Institut de Chimie Moléculaire de l'Université de Bourgogne - ICMUB UMR CNRS 6302 laboratory under the supervision of Dr. Caroline Guigou and Dr. Alain Lalande. The CT Scans used were obtained at CHU, Dijon, Hospital. The details of this project can be found in a detailed report attached under "MSc Thesis".
+
 Computer Vision for Screen-rendered Augmented Reality for Mandibular Tumor Surgery
 
 Data:
