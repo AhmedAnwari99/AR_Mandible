@@ -21,4 +21,4 @@ Semi-Automation via YOLOv8s.
 Annotation via Label studio -> Ultralytics YOLOv8s model trained -> Detected landmarks used as points from the Camera frame. CT Landmarks manually selected.
 
 
-![Validation](Pictures/validation.png)
+![Validation](Pictures/validation.PNG)
