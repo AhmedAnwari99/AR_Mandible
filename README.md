@@ -20,6 +20,6 @@ Tracking via Optical Flow.
 Semi-Automation via YOLOv8s.
 Annotation via Label studio -> Ultralytics YOLOv8s model trained -> Detected landmarks used as points from the Camera frame. CT Landmarks manually selected.
 
-<p align = 'center'> ![manual_registration](Pictures/manual.PNG) p/>
-<p align = 'center'> ![projection_osteotomny](Pictures/osteotomy.PNG) p/>
-<p align = 'center'> ![Validation](Pictures/validation.PNG) p/>
+<p align = 'center'> ![manual_registration](Pictures/manual.PNG) <p/>
+<p align = 'center'> ![projection_osteotomny](Pictures/osteotomy.PNG) <p/>
+<p align = 'center'> ![Validation](Pictures/validation.PNG) <p/>
